@@ -1,0 +1,12 @@
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\obj\Debug\GorselProgramlamaProje.csprojAssemblyReference.cache
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\obj\Debug\GorselProgramlamaProje.frmAnaForm.resources
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\obj\Debug\GorselProgramlamaProje.frmUyeKaydi.resources
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\obj\Debug\GorselProgramlamaProje.Properties.Resources.resources
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\obj\Debug\GorselProgramlamaProje.csproj.GenerateResource.cache
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\bin\Debug\GorselProgramlamaProje.exe.config
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\bin\Debug\GorselProgramlamaProje.exe
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\bin\Debug\GorselProgramlamaProje.pdb
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\obj\Debug\GorselProgramlamaProje.exe
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\obj\Debug\GorselProgramlamaProje.pdb
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\obj\Debug\GorselProgramlamaProje.frmDoktor.resources
+C:\Users\Anıl KORKMAZ\source\repos\GorselProgramlamaProje\GorselProgramlamaProje\obj\Debug\GorselProgramlamaProje.frmRandevuAl.resources
